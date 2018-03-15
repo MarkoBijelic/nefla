@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TisaOT';
+    src: url('fonts/TisaOT.eot');
+    src: url('fonts/TisaOT.eot') format('embedded-opentype'),
+         url('fonts/TisaOT.woff2') format('woff2'),
+         url('fonts/TisaOT.woff') format('woff'),
+         url('fonts/TisaOT.ttf') format('truetype'),
+         url('fonts/TisaOT.svg#TisaOT') format('svg');
+}
